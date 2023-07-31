@@ -41,7 +41,7 @@ Explore useful resources, links, and references in the [Resources](resources/) d
 
 ## License
 
-All content in this repository is licensed under the [MIT License](LICENSE). Please review the license before using or contributing to the project.
+All content in this repository is licensed under the [MIT License](https://opensource.org/license/mit/). Please review the license before using or contributing to the project.
 
 ## Contact
 
