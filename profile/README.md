@@ -17,11 +17,11 @@ Welcome to the [company] organization repository! This repository serves as a ce
 
 To get started with our organization's repositories, please follow these steps:
 
-1. Clone the repository to your local machine using `git clone`.
-2. Create a new branch for your work: `git checkout -b your-branch-name`.
-3. Make your changes and commit them: `git commit -m "Add your changes here"`.
-4. Push your changes to your branch: `git push origin your-branch-name`.
-5. Open a pull request (PR) to merge your changes into the main branch.
+- [ ] Clone the repository to your local machine using `git clone`.
+- [ ] Create a new branch for your work: `git checkout -b your-branch-name`.
+- [ ] Make your changes and commit them: `git commit -m "Add your changes here"`.
+- [ ] Push your changes to your branch: `git push origin your-branch-name`.
+- [ ] Open a pull request (PR) to merge your changes into the main branch.
 
 ## Code of Conduct
 
