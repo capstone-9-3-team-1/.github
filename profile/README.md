@@ -1,4 +1,4 @@
-# Our App
+# ATARA
 
 ## Description
 
